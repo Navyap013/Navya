@@ -1,2 +1,3 @@
 # Navya
-My first Repository
+My first Repository.
+Author-Navya P
