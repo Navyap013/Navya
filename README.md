@@ -1,4 +1,4 @@
 # Navya
 My first Repository.
 <br>
-Author-Navya P
+Author-Navya Pani
